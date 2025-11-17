@@ -5,5 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "gym>=0.26.2",
+    "gymnasium>=1.2.2",
+    "ipykernel>=7.1.0",
+    "jupyterlab>=4.4.10",
     "numpy>=2.3.4",
 ]
