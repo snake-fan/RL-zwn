@@ -4,3 +4,5 @@
 
 # 忽略锁文件，确保其内容不被 Git 版本控制，以便 team members can manage dependencies independently
 uv.lock
+
+__pycache__/
